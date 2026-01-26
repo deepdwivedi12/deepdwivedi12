@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Deep Dwivedi 👋
 
-<!--
-**deepdwivedi12/deepdwivedi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student at SAGE University Bhopal (Powered by Sunstone)
 
-Here are some ideas to get you started:
+💻 Aspiring Web Developer with a strong interest in frontend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- HTML, CSS, JavaScript
+- C Programming
+- Git & GitHub
+
+🚀 Projects:
+- Sunstone Event Management System
+- Web App Clones using HTML & CSS
+- C Programming Practice Programs
+
+📫 Connect with me:
+- GitHub: https://github.com/deepdwivedi12
+- LinkedIn: https://www.linkedin.com/in/deep-dwivedi-0aa707383/
