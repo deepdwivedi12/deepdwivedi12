@@ -1,50 +1,85 @@
 <div align="center">
 
-# 👋 Hey, I'm Deep Dwivedi
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Deep Dwivedi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Engineering+Student;Frontend+Developer+in+Progress;Problem+Solver;C+Programmer;Future+Full+Stack+Developer" />
+### Engineering Student • Aspiring Web Developer • Problem Solver
 
-<img src="https://komarev.com/ghpvc/?username=deepdwivedi12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<p align="center">
+  <a href="https://github.com/deepdwivedi12">
+    <img src="https://img.shields.io/github/followers/deepdwivedi12?label=Followers&style=for-the-badge&color=blue"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=deepdwivedi12&style=for-the-badge&color=blue"/>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=36BCF7&center=true&width=700&lines=Engineering+Student;Frontend+Developer;Learning+C+Programming;Learning+Git+and+GitHub;Future+Full+Stack+Developer"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Engineering Student at **SAGE University Bhopal (Powered by Sunstone)**
 
-💻 Passionate about **Web Development, Programming & Technology**
+💻 Passionate about Programming, Technology & Web Development
 
-🌱 Currently Learning:
+🚀 Currently improving my skills in:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - C Programming
 - Git & GitHub
 
 🎯 Goal:
 
-> Become a skilled Full Stack Developer and build impactful products.
+> Become a Professional Full Stack Developer
 
 ⚡ Fun Fact:
 
-> I believe consistency beats talent when talent isn't consistent.
+> I love turning ideas into real projects.
 
 ---
 
-# 🛠 Tech Stack
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode" />
+<a href="https://github.com/deepdwivedi12">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+
+<a href="https://www.instagram.com/deep_0__07/">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/deepdwivedi164">
+<img src="https://img.icons8.com/color/96/hackerrank.png" width="55"/>
+</a>
+
+<a href="https://leetcode.com/u/JrGKTZxD5J/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/>
+</a>
+
+</p>
 
 ---
 
-# 📈 GitHub Analytics
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -54,25 +89,27 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepdwivedi12&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepdwivedi12&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -82,89 +119,52 @@
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
-### 🚀 Sunstone Event Management System
+## 🎉 Sunstone Event Management System
 
-Event management platform developed for handling registrations and event activities.
+Event Management Platform for registrations and event handling.
 
-### 🌐 Web App Clones
+---
+
+## 🌐 Web App Clones
 
 Modern website clones built using HTML & CSS.
 
-### 💻 C Programming Practice
+---
 
-Collection of C programming concepts and problem-solving programs.
+## 💻 C Programming Practice
+
+Collection of C programming concepts and problem solving programs.
 
 ---
 
-# 🎯 Current Focus
+# 🎯 2026 Goals
 
-```txt
-✔ Frontend Development
-✔ JavaScript Fundamentals
-✔ Git & GitHub
-✔ Problem Solving
-✔ Building Real Projects
-```
+✅ Master Frontend Development
+
+✅ Learn Advanced JavaScript
+
+✅ Build More Projects
+
+✅ Improve Problem Solving
+
+✅ Maintain Daily GitHub Streak
 
 ---
 
-# 🌎 Connect With Me
+# 💡 Quote
 
 <div align="center">
-
-<a href="https://github.com/deepdwivedi12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/deep_0__07/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/deepdwivedi164">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://leetcode.com/u/JrGKTZxD5J/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</div>
-
----
-
-# 📊 Coding Profiles
-
-| Platform | Profile |
-|----------|----------|
-| 🟢 HackerRank | deepdwivedi164 |
-| 🟠 LeetCode | JrGKTZxD5J |
-| ⚫ GitHub | deepdwivedi12 |
-| 🔵 LinkedIn | Deep Dwivedi |
-
----
-
-<div align="center">
-
-## 💭 Quote I Follow
 
 ### "Success doesn't come from what you do occasionally. It comes from what you do consistently."
 
-⭐ Don't forget to follow and star repositories you like!
-
 </div>
 
 ---
 
 <div align="center">
 
-# 🚀 Thanks For Visiting My Profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer"/>
 
 </div>
