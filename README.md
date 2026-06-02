@@ -1,115 +1,170 @@
-<!-- GitHub Profile README -->
-
 <div align="center">
 
-# Hi, I'm Deep Dwivedi 👋
+# 👋 Hey, I'm Deep Dwivedi
 
-### Engineering Student | Aspiring Web Developer | Problem Solver
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Engineering+Student;Frontend+Developer+in+Progress;Problem+Solver;C+Programmer;Future+Full+Stack+Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+in+Progress;Learning+HTML%2C+CSS%2C+JavaScript;C+Programming+%7C+Git+%7C+GitHub;Building+projects+with+passion" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=deepdwivedi12&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am **Deep Dwivedi**, an engineering student at **SAGE University Bhopal (Powered by Sunstone)**.  
-I am passionate about **programming, technology, and web development**.  
-Currently, I am building my skills in **HTML, CSS, JavaScript, C Programming, Git, and GitHub**.
+🎓 Engineering Student at **SAGE University Bhopal (Powered by Sunstone)**
 
-- 🌱 Currently learning **Frontend Development**
-- 💻 Interested in **Web Development and Problem Solving**
-- 🎯 Goal: Become a strong **Full Stack Developer**
-- ⚡ I enjoy creating simple, clean, and useful projects
+💻 Passionate about **Web Development, Programming & Technology**
 
----
+🌱 Currently Learning:
 
-## 🛠️ Skills
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+- JavaScript
 - C Programming
 - Git & GitHub
-- Problem Solving
-- Frontend Development
+
+🎯 Goal:
+
+> Become a skilled Full Stack Developer and build impactful products.
+
+⚡ Fun Fact:
+
+> I believe consistency beats talent when talent isn't consistent.
 
 ---
 
-## 💼 Projects
-
-- **Sunstone Event Management System**
-- **Web App Clones using HTML & CSS**
-- **C Programming Practice Programs**
-
----
-
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/deepdwivedi12" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepdwivedi12&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💼 Featured Projects
+
+### 🚀 Sunstone Event Management System
+
+Event management platform developed for handling registrations and event activities.
+
+### 🌐 Web App Clones
+
+Modern website clones built using HTML & CSS.
+
+### 💻 C Programming Practice
+
+Collection of C programming concepts and problem-solving programs.
+
+---
+
+# 🎯 Current Focus
+
+```txt
+✔ Frontend Development
+✔ JavaScript Fundamentals
+✔ Git & GitHub
+✔ Problem Solving
+✔ Building Real Projects
+```
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/deepdwivedi12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://www.instagram.com/deep_0__07/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+<a href="https://www.instagram.com/deep_0__07/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
-<a href="https://www.hackerrank.com/profile/deepdwivedi164" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+
+<a href="https://www.hackerrank.com/profile/deepdwivedi164">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
-<a href="https://leetcode.com/u/JrGKTZxD5J/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<a href="https://leetcode.com/u/JrGKTZxD5J/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </div>
 
 ---
 
-## 📌 Featured Highlights
+# 📊 Coding Profiles
 
-- Strong interest in **frontend development**
-- Practicing **coding consistency**
-- Building **real-world projects**
-- Learning by doing and improving every day
+| Platform | Profile |
+|----------|----------|
+| 🟢 HackerRank | deepdwivedi164 |
+| 🟠 LeetCode | JrGKTZxD5J |
+| ⚫ GitHub | deepdwivedi12 |
+| 🔵 LinkedIn | Deep Dwivedi |
 
 ---
 
 <div align="center">
 
-### धन्यवाद for visiting my profile ⭐
+## 💭 Quote I Follow
+
+### "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+
+⭐ Don't forget to follow and star repositories you like!
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Thanks For Visiting My Profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
 
 </div>
