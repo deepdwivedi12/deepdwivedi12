@@ -1,6 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:06b6d4&text=Deep%20Dwivedi&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Future%20Software%20Engineer&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:06b6d4&text=Deep%20Dwivedi&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student&descAlignY=60&descSize=28&animation=fadeIn" />
 </p>
+
+<h3 align="center">
+🌐 Web Development • 🤖 Machine Learning
+</h3>
 
 <h3 align="center">
 🚀 Building Projects • Learning Javascript • Exploring AI/ML
