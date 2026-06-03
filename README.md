@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-🚀 Building Projects • Learning DSA • Exploring AI/ML
+🚀 Building Projects • Learning Javascript • Exploring AI/ML
 </h3>
 
 <p align="center">
