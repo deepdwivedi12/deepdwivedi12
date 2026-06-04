@@ -31,9 +31,31 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<h1 🛠️ Tech Stack></h1>
+<h1 align="center"> 🛠️ Tech Stack</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,mysql&perline=5" />
+</p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
+</p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true" />
+</p>
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepdwivedi12&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
