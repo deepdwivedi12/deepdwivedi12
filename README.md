@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
+<h1 align="center>
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -52,3 +53,4 @@
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+</h1>
