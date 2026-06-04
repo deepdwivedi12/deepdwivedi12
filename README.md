@@ -31,6 +31,3 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:06b6d4&text=Deep%20Dwivedi&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student%20•%20Web%20Development%20•%20Machine%20Learning&descAlignY=60&descSize=22&animation=fadeIn" />
-</p>
