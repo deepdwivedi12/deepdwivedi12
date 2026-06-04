@@ -31,36 +31,31 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-🎓 Computer Science Student
-
-💻 Learning Web Development
-
-🤖 Exploring Machine Learning
-
-🐍 Practicing C, C++, Python & JavaScript
-
-🚀 Building Real-World Projects
-
+<p align="center">
+🎓 Computer Science Student<br>
+💻 Learning Web Development<br>
+🤖 Exploring Machine Learning<br>
+🐍 Practicing C, C++, Python & JavaScript<br>
+🚀 Building Real-World Projects<br>
 🎯 Goal: Become a Software Engineer
+</p>
+
 <h1 align="center"> 🛠️ Tech Stack</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,mysql&perline=5" />
 </p>
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-🔹 Student Hub
-
-🔹 Sunstone Event Management System
-
-🔹 Calculator App
-
-🔹 Digital Clock
-
+<p align="center">
+🔹 Student Hub<br>
+🔹 Sunstone Event Management System<br>
+🔹 Calculator App<br>
+🔹 Digital Clock<br>
 🔹 Number Guess Game
-## 📊 GitHub Stats
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepdwivedi12&theme=github_dark" />
