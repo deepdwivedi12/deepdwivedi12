@@ -31,11 +31,35 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
+## 👨‍💻 About Me
+
+🎓 Computer Science Student
+
+💻 Learning Web Development
+
+🤖 Exploring Machine Learning
+
+🐍 Practicing C, C++, Python & JavaScript
+
+🚀 Building Real-World Projects
+
+🎯 Goal: Become a Software Engineer
 <h1 align="center"> 🛠️ Tech Stack</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,mysql&perline=5" />
 </p>
+## 🚀 Featured Projects
+
+🔹 Student Hub
+
+🔹 Sunstone Event Management System
+
+🔹 Calculator App
+
+🔹 Digital Clock
+
+🔹 Number Guess Game
 ## 📊 GitHub Stats
 
 <p align="center">
