@@ -31,26 +31,9 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<h1 align="center>
-## 🛠️ Tech Stack
+<h1 🛠️ Tech Stack></h1>
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,mysql&perline=5" />
 </p>
 
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-</h1>
