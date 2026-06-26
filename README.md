@@ -65,6 +65,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=deepdwivedi12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
