@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:06b6d4&text=Deep%20Dwivedi&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student&descAlignY=60&descSize=28&animation=fadeIn" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepdwivedi12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
