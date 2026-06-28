@@ -74,13 +74,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true" />
 </p>
-## 📊 Languages Used
 
-| Language | Usage |
-|----------|------:|
-| 🐍 Python | 40% |
-| 🌐 HTML | 20% |
-| 🎨 CSS | 15% |
-| ⚡ JavaScript | 15% |
-| 💻 C | 5% |
-| 🚀 C++ | 5% |
