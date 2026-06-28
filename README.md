@@ -45,10 +45,10 @@
 🎯 Goal: Become a Software Engineer
 </p>
 
-<h1 align="center"> 📈 Most Used Languages</h1>
+<h1 align="center"> 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight)
-
+</h1>
 
 
 <h1 align="center"> 🛠️ Tech Stack</h1>
