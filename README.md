@@ -44,12 +44,8 @@
 🚀 Building Real-World Projects<br>
 🎯 Goal: Become a Software Engineer
 </p>
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true" />
-</p>
-## 📈 Most Used Languages
+<h1 align="center"> 📈 Most Used Languages</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight)
 
@@ -77,5 +73,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
+</p>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true" />
 </p>
 
