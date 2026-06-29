@@ -57,7 +57,7 @@
 <p align="center">
 🔹 Student Hub<br>
 🔹 Sunstone Event Management System<br>
-🔹 Calculator App<br>
+🔹 Quiz_website
 🔹 Digital Clock<br>
 🔹 Number Guess Game
 </p>
