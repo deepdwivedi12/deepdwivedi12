@@ -88,3 +88,28 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=react-dark&bg_color=0D1117&color=BB86FC&line=00F5FF&point=FF6EC7&area=true&hide_border=true"/>
 </p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0d1117&color=00E5FF&line=39FF14&point=FFEA00&area=true&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0D1117&color=00BFFF&line=00FFFF&point=7CFC00&area=true&hide_border=true"/>
+</p>
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=deepdwivedi12&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0D1117&color=58A6FF&line=00FFFF&point=FFD700&area=true&hide_border=true"/>
+
+</p>
