@@ -85,4 +85,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0d1117&color=58a6ff&line=00E5FF&point=FFD700&area=true&hide_border=true&custom_title=🚀%20Deep%20Dwivedi%20Contribution%20Graph"/>
 </p>
 
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=react-dark&bg_color=0D1117&color=BB86FC&line=00F5FF&point=FF6EC7&area=true&hide_border=true"/>
+</p>
