@@ -80,3 +80,18 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=react-dark&bg_color=0D1117&color=BB86FC&line=00F5FF&point=FF6EC7&area=true&hide_border=true"/>
 </p>
 
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0D1117&color=7F5AF0&line=00E5FF&point=FF6EC7&area=true&hide_border=true&radius=16&custom_title=🚀%20Deep%20Dwivedi's%20Contribution%20Graph"/>
+</p>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=000000&color=00FFFF&line=39FF14&point=FFD700&area=true&hide_border=true"/>
+</p>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0d1117&color=00ff99&line=00ff99&point=00ffff&area=true&hide_border=true"/>
+</p>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0D1117&color=58A6FF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/>
+</p>
