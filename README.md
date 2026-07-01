@@ -81,5 +81,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0d1117&color=58a6ff&line=00E5FF&point=FFD700&area=true&hide_border=true&custom_title=🚀%20Deep%20Dwivedi%20Contribution%20Graph"/>
+</p>
 
 
