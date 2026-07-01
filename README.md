@@ -80,16 +80,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=react-dark&bg_color=0D1117&color=BB86FC&line=00F5FF&point=FF6EC7&area=true&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepdwivedi12&theme=github_dark" />
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepdwivedi12&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepdwivedi12&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepdwivedi12&theme=tokyonight&utcOffset=5.5"/>
-</p>
-<p align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepdwivedi12&theme=tokyonight"/>
 
@@ -100,4 +90,3 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepdwivedi12&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
-
