@@ -80,6 +80,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=react-dark&bg_color=0D1117&color=BB86FC&line=00F5FF&point=FF6EC7&area=true&hide_border=true"/>
 </p>
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&bg_color=0d1117&color=00ff99&line=00ff99&point=00ffff&area=true&hide_border=true"/>
-</p>
+
