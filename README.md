@@ -77,15 +77,9 @@
 </p>
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
