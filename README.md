@@ -70,7 +70,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepdwivedi12&theme=github_dark" />
 </p>
-## 🔥 GitHub Streak
+<h1>🔥 GitHub Streak</h1>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
@@ -88,5 +88,4 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepdwivedi12&theme=tokyonight"/>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepdwivedi12&theme=tokyonight&utcOffset=5.5"/>
-
 </p>
