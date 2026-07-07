@@ -75,7 +75,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
 </p>
-## 📈 Contribution Graph
+<h2 align="center"> 📈 Contribution Graph </h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=react-dark&bg_color=0D1117&color=BB86FC&line=00F5FF&point=FF6EC7&area=true&hide_border=true"/>
 </p>
