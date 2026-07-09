@@ -5,13 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=deepdwivedi12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="center">
-🌐 Web Development • 🤖 Machine Learning
-</h3>
+🌐 Web Development • 📚 Data Structures & Algorithms • 🤖 Machine Learning
 
-<h3 align="center">
-🚀 Building Projects • Learning Javascript • Exploring AI/ML
-</h3>
+🚀 Solving DSA Problems • Building Projects • Learning JavaScript • Exploring AI/ML
 
 <p align="center">
 <a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
