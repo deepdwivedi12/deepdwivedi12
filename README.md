@@ -34,22 +34,23 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">🧑‍💻 About Me</h2>
 
-<p align="center">
+<div align="center">
+
 🎓 <b>B.Tech CSE (Data Analytics) Student</b><br><br>
 
-📚 Learning <b>Data Structures & Algorithms (DSA)</b><br>
+📚 Learning Data Structures & Algorithms (DSA)<br>
 
-🌐 Passionate about <b>Web Development</b><br>
+🌐 Passionate about Web Development<br>
 
-🚀 Building <b>Real-World Projects</b><br>
+🚀 Building Real-World Projects<br>
 
-💻 Improving <b>C • C++ • JavaScript</b><br>
+💻 Improving C • C++ • JavaScript<br>
 
-🎯 Aspiring <b>Software Engineer</b>
-</p>
+🎯 Aspiring Software Engineer
 
+</div>
 <h1 align="center"> 🛠️ Tech Stack</h1>
 
 <p align="center">
