@@ -34,16 +34,14 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<h2 align="center">👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p align="center">
-🎓 Computer Science Student<br>
-💻 Learning Web Development<br>
-🤖 Exploring Machine Learning<br>
-🐍 Practicing C, C++, Python & JavaScript<br>
-🚀 Building Real-World Projects<br>
-🎯 Goal: Become a Software Engineer
-</p>
+- 🎓 B.Tech CSE (Data Analytics) Student
+- 💻 Learning Data Structures & Algorithms (DSA)
+- 🌐 Passionate about Web Development
+- 🚀 Building Real-World Projects
+- 📚 Currently learning C, C++, JavaScript & DSA
+- 🎯 Goal: Software Engineer
 
 
 
