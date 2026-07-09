@@ -10,7 +10,7 @@
 </h3>
 
 <h3 align="center">
-🚀 Solving DSA Problems • Building Projects • Learning JavaScript • Exploring Data Analytics
+🚀 Solving DSA Problems • 💻 Building Projects • 📖 Learning JavaScript • 📊 Learning Data Analytics
 </h3>
 
 <p align="center">
