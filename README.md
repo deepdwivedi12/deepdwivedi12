@@ -6,11 +6,11 @@
 </p>
 
 <h3 align="center">
-🌐 Web Development • 📚 Data Structures & Algorithms • 🤖 Machine Learning
+🌐 Web Development • 📚 Data Structures & Algorithms • 📊 Data Analytics
 </h3>
 
 <h3 align="center">
-🚀 Solving DSA Problems • Building Projects • Learning JavaScript • Exploring AI/ML
+🚀 Solving DSA Problems • Building Projects • Learning JavaScript • Exploring Data Analytics
 </h3>
 
 <p align="center">
