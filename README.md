@@ -37,17 +37,17 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-🎓 <b>B.Tech CSE (Data Analytics) Student</b><br><br>
-
-📚 Learning Data Structures & Algorithms (DSA)<br>
-
-🌐 Passionate about Web Development<br>
-
-🚀 Building Real-World Projects<br>
-
-💻 Improving C • C++ • JavaScript<br>
-
-🎯 Aspiring Software Engineer
+  🎓 <b>B.Tech CSE (Data Analytics) Student</b><br><br>
+  
+  📚 Learning Data Structures & Algorithms (DSA)<br>
+  
+  🌐 Passionate about Web Development<br>
+  
+  🚀 Building Real-World Projects<br>
+  
+  💻 Improving C • C++ • JavaScript<br>
+  
+  🎯 Aspiring Software Engineer
 </p>
 
 <h1 align="center"> 🛠️ Tech Stack</h1>
