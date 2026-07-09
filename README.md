@@ -78,7 +78,7 @@
 <h1>🔥 GitHub Streak</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
 </p>
 <h2 align="center"> 📈 Contribution Graph </h2>
 <p align="center">
