@@ -78,12 +78,22 @@
 ### 🧠 Smart Question Predictor
 
 An academic tool designed to organize and predict university-level questions to help students prepare more efficiently.
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Smart Question Predictor
+
+A smart academic tool designed to predict and organize university-level questions for better exam preparation.
 
 **✨ Features**
-- 📚 Subject-wise question prediction
-- 🔍 Search & filtering
-- 📊 Easy question organization
-- 🎯 Exam-focused preparation
+- 📚 Subject-wise Question Prediction
+- 🔍 Search & Filtering
+- 📊 Organized Question Bank
+- 🎯 Exam-focused Preparation
 
 **🛠 Tech Stack:** HTML, CSS, JavaScript
 
@@ -114,13 +124,7 @@ A collection of responsive web applications built while learning frontend develo
 
 ### 💻 Programming Practice
 
-Improving programming fundamentals through daily coding practice, logic building, and solving DSA problems.
-
-**✨ Focus Areas**
-- 🧩 Problem Solving
-- 📚 Data Structures & Algorithms
-- ⚡ Logic Building
-- 🎯 Coding Challenges
+Improving programming fundamentals through daily coding practice, logic building, and DSA problem-solving.
 
 **💻 Programming Languages**
 - 🔹 C
@@ -128,18 +132,30 @@ Improving programming fundamentals through daily coding practice, logic building
 - 🔹 Java
 - 🔹 Python
 
+**📚 Core Concepts**
+- Arrays
+- Strings
+- Stack
+- Queue
+- Searching
+- Sorting
+- Functions
+- Basic OOP
 
-### 📊 Excel & Data Analytics
+</td>
 
-Learning data analysis fundamentals using Microsoft Excel.
+<td width="50%" valign="top">
 
-**✨ Skills**
-- 📈 Charts & Dashboards
-- 🧹 Data Cleaning
-- 📋 Formulas & Functions
-- 📊 Data Visualization
+### 🚀 Learning Journey
 
-**🛠 Tools:** Microsoft Excel
+Continuously learning modern technologies and building practical projects to strengthen development skills.
+
+**🎯 Current Learning**
+- 🌐 Frontend Development
+- 💡 Data Structures & Algorithms
+- ☕ Java Programming
+- 🐍 Python Basics
+- 🔧 Git & GitHub
 
 </td>
 
