@@ -48,7 +48,6 @@
 ---
 
 
-
 ## 🚀 Featured Projects
 
 <table>
@@ -58,19 +57,7 @@
 
 ### 🧠 Smart Question Predictor
 
-An academic tool designed to organize and predict
-university-level questions to help students prepare more efficiently.
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Smart Question Predictor
-
-A smart academic tool designed to predict and
-organize university-level questions for better exam preparation.
+A smart academic tool designed to predict and organize university-level questions for better exam preparation.
 
 **✨ Features**
 - 📚 Subject-wise Question Prediction
@@ -86,8 +73,7 @@ organize university-level questions for better exam preparation.
 
 ### 🌐 Frontend Web Projects
 
-A collection of responsive web applications built while
-learning frontend development.
+A collection of responsive web applications built while learning frontend development.
 
 **✨ Projects**
 - 🧮 Calculator
@@ -108,8 +94,7 @@ learning frontend development.
 
 ### 💻 Programming Practice
 
-Improving programming fundamentals through daily coding
-practice, logic building, and DSA problem-solving.
+Improving programming fundamentals through daily coding practice, logic building, and DSA problem-solving.
 
 **💻 Programming Languages**
 - 🔹 C
@@ -117,16 +102,13 @@ practice, logic building, and DSA problem-solving.
 - 🔹 Java
 - 🔹 Python
 
-
-
 </td>
 
 <td width="50%" valign="top">
 
 ### 🚀 Learning Journey
 
-Continuously learning modern technologies and
-building practical projects to strengthen development skills.
+Continuously learning modern technologies and building practical projects to strengthen development skills.
 
 **🎯 Current Learning**
 - 🌐 Frontend Development
