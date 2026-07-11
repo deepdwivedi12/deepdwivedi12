@@ -132,15 +132,7 @@ Improving programming fundamentals through daily coding practice, logic building
 - 🔹 Java
 - 🔹 Python
 
-**📚 Core Concepts**
-- Arrays
-- Strings
-- Stack
-- Queue
-- Searching
-- Sorting
-- Functions
-- Basic OOP
+
 
 </td>
 
