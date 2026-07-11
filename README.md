@@ -112,22 +112,22 @@ A collection of responsive web applications built while learning frontend develo
 
 <td width="50%" valign="top">
 
-### 💻 DSA & Programming Practice
+### 💻 Programming Practice
 
-Daily practice of coding problems to improve logic building and problem-solving skills.
+Improving programming fundamentals through daily coding practice, logic building, and solving DSA problems.
 
-**✨ Topics**
-- 📦 Arrays
-- 🔤 Strings
-- 📚 Stack & Queue
-- 🔁 Recursion
-- 🌳 Basic DSA Concepts
+**✨ Focus Areas**
+- 🧩 Problem Solving
+- 📚 Data Structures & Algorithms
+- ⚡ Logic Building
+- 🎯 Coding Challenges
 
-**🛠 Languages:** C, C++, Java, Python
+**💻 Programming Languages**
+- 🔹 C
+- 🔹 C++
+- 🔹 Java
+- 🔹 Python
 
-</td>
-
-<td width="50%" valign="top">
 
 ### 📊 Excel & Data Analytics
 
