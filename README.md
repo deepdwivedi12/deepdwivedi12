@@ -68,15 +68,84 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,mysql&perline=5" />
 </p>
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<p align="center">
-🔹 Student Hub<br>
-🔹 Sunstone Event Management System<br>
-🔹 Quiz_website
-🔹 Digital Clock<br>
-🔹 Number Guess Game
-</p>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Smart Question Predictor
+
+An academic tool designed to organize and predict university-level questions to help students prepare more efficiently.
+
+**✨ Features**
+- 📚 Subject-wise question prediction
+- 🔍 Search & filtering
+- 📊 Easy question organization
+- 🎯 Exam-focused preparation
+
+**🛠 Tech Stack:** HTML, CSS, JavaScript
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Frontend Web Projects
+
+A collection of responsive web applications built while learning frontend development.
+
+**✨ Projects**
+- 🧮 Calculator
+- 🌙 Digital Theme Clock
+- ✊ Rock Paper Scissors
+- ✅ To-Do List
+- 🎨 Responsive Landing Pages
+
+**🛠 Tech Stack:** HTML, CSS, JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 DSA & Programming Practice
+
+Daily practice of coding problems to improve logic building and problem-solving skills.
+
+**✨ Topics**
+- 📦 Arrays
+- 🔤 Strings
+- 📚 Stack & Queue
+- 🔁 Recursion
+- 🌳 Basic DSA Concepts
+
+**🛠 Languages:** C, C++, Java, Python
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Excel & Data Analytics
+
+Learning data analysis fundamentals using Microsoft Excel.
+
+**✨ Skills**
+- 📈 Charts & Dashboards
+- 🧹 Data Cleaning
+- 📋 Formulas & Functions
+- 📊 Data Visualization
+
+**🛠 Tools:** Microsoft Excel
+
+</td>
+
+</tr>
+
+</table>
 <h1 align="center"> 📈 Most Used Languages
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight)
