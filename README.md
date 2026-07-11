@@ -47,27 +47,8 @@
 
 ---
 
-### 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,git,github,vscode" />
-</p>
 
-### 📈 Current Focus
-
-- 🔥 Solving DSA problems daily
-- 🌐 Improving Frontend Development skills
-- 📚 Learning Data Analytics & Excel
-- 🚀 Building useful projects
-
-### 🌟 Quote
-
-> **"Code. Learn. Build. Repeat." 🚀**
-<h1 align="center"> 🛠️ Tech Stack</h1>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,git,github,vscode,mysql&perline=5" />
-</p>
 ## 🚀 Featured Projects
 
 <table>
