@@ -34,23 +34,35 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<h2 align="center">🧑‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 <b>B.Tech CSE (Data Analytics) Student</b><br><br>
+- 🎓 **B.Tech CSE (Data Analytics)** Student at **SAGE University, Bhopal** *(Powered by Sunstone)*
+- 💻 Passionate about **Frontend Development**, **DSA**, and **Problem Solving**
+- 🌱 Currently learning **Java, C++, Python, DSA,  & Web Development**
+- 🚀 Building real-world projects to improve my development skills
+- 📊 Exploring **Data Analytics**, and **Data Visualization**
+- 🎯 Goal: Become a **Software Engineer** and contribute to impactful projects
 
-📚 Learning Data Structures & Algorithms (DSA)<br>
+---
 
-🌐 Passionate about Web Development<br>
+### 🛠 Tech Stack
 
-🚀 Building Real-World Projects<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,git,github,vscode" />
+</p>
 
-💻 Improving C • C++ • JavaScript<br>
+### 📈 Current Focus
 
-🎯 Aspiring Software Engineer
+- 🔥 Solving DSA problems daily
+- 🌐 Improving Frontend Development skills
+- 📚 Learning Data Analytics & Excel
+- 🚀 Building useful projects
 
-</div>
+### 🌟 Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
 <h1 align="center"> 🛠️ Tech Stack</h1>
 
 <p align="center">
