@@ -152,7 +152,3 @@ Continuously learning modern technologies and building practical projects to str
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepdwivedi12&theme=tokyonight&utcOffset=5.5"/>
 </p>
-## 📈 Contribution Graph
-
-[![Deep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=github-compact)](https://github.com/deepdwivedi12)
-![Snake animation](https://raw.githubusercontent.com/deepdwivedi12/deepdwivedi12/output/github-contribution-grid-snake-dark.svg)
