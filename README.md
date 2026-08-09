@@ -122,10 +122,7 @@ Continuously learning modern technologies and building practical projects to str
 </tr>
 
 </table>
-<h1 align="center"> 📈 Most Used Languages
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight)
-</h1>
 
 
 
