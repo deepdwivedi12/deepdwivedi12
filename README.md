@@ -123,12 +123,6 @@ Continuously learning modern technologies and building practical projects to str
 
 </table>
 
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepdwivedi12&theme=github_dark" />
-</p>
 <h1 align="center">🔥 GitHub Streak</h1>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
