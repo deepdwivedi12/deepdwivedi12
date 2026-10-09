@@ -28,22 +28,66 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-Hi! I'm **Deep Dwivedi**, a Computer Science student specializing in Data Analytics at **SAGE University, Bhopal**.
+<p align="center">
+  Hi, I'm <b>Deep Dwivedi</b>, a Computer Science student specializing in
+  Data Analytics at <b>SAGE University, Bhopal</b>.
+</p>
 
-I'm passionate about programming, problem-solving, web development, and data analytics. I enjoy learning new technologies, practicing Data Structures and Algorithms, and building projects that turn ideas into practical solutions.
+<p align="center">
+  Passionate about programming, problem-solving, web development,
+  and data analytics. I enjoy learning new technologies and building
+  practical projects.
+</p>
 
-- 🎓 B.Tech CSE (Data Analytics) student
-- 💻 Practicing programming and DSA
-- 🌐 Learning and building frontend web projects
-- 📊 Exploring data analytics and visualization
-- 🚀 Building practical projects to strengthen my development skills
-- 🎯 Goal: Grow into a skilled software developer and contribute to meaningful projects
+<p align="center">
+  🎓 B.Tech CSE (Data Analytics) &nbsp; • &nbsp;
+  💻 Practicing DSA &nbsp; • &nbsp;
+  🌐 Learning Web Development
+</p>
 
----
+<p align="center">
+  📊 Exploring Data Analytics &nbsp; • &nbsp;
+  🚀 Building Projects
+</p>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-## 🛠️ Tech Stack & Skills
+<h4 align="center">Programming Languages</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<h4 align="center">Web Development</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript_DOM-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript DOM"/>
+</p>
+
+<h4 align="center">Core Concepts & Tools</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=flat-square" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+<h4 align="center">Data Analytics</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Cleaning-0F766E?style=flat-square" alt="Data Cleaning"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square" alt="Data Visualization"/>
+</p>
 
 ### Programming Languages
 
