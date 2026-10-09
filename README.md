@@ -122,7 +122,6 @@ Practicing programming fundamentals, improving logical thinking, and working on 
 
 ---
 
-```html
 <h2 align="center">🎯 Current Focus</h2>
 
 <table align="center">
@@ -155,7 +154,6 @@ Practicing programming fundamentals, improving logical thinking, and working on 
     </tr>
   </tbody>
 </table>
-```
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
