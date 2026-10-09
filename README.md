@@ -121,68 +121,115 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square" alt="Data Visualization"/>
 </p>
+<!-- ================= FEATURED PROJECTS ================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<p align="center">
+  A selection of my projects in web development, programming,
+  and data analytics.
+</p>
 
-### 🧠 Smart Question Predictor
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🅿️ Parking Booking System</h3>
+      <p>
+        A project focused on parking booking and reservation
+        workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <a href="https://github.com/deepdwivedi12/parking-booking-system">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Parking Booking System"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>✈️ Smart Travel Itinerary Generator</h3>
+      <p>
+        An AI-powered travel itinerary generator using n8n,
+        OpenAI, and Gmail automation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" alt="AI"/>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+      </p>
+      <a href="https://github.com/deepdwivedi12/smart-travel-itinerary-generator">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Travel Itinerary Generator"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📈 Real-Time Stock Market Data Analysis</h3>
+      <p>
+        A data analysis project using Python, Pandas,
+        Matplotlib, and finance data.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      </p>
+      <a href="https://github.com/deepdwivedi12/Real-Time-Stock-Market-Data-Analysis">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Stock Market Analysis"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌦️ Real-Time Weather Data Analysis</h3>
+      <p>
+        A weather data analysis project using Python,
+        Pandas, Matplotlib, and a weather API.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square" alt="Data Analysis"/>
+      </p>
+      <a href="https://github.com/deepdwivedi12/Real-Time-Weather-Data-Analysis">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Weather Analysis"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧩 Quiz System</h3>
+      <p>
+        An interactive quiz website with a timer,
+        progress tracking, and score calculation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+      <a href="https://github.com/deepdwivedi12/quiz-system">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Quiz System"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Stringmaster Landing Page</h3>
+      <p>
+        A modern, responsive landing page for a guitar
+        learning platform.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+      </p>
+      <a href="https://github.com/deepdwivedi12/stringmaster-landing-page">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Stringmaster"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-An academic tool designed to help organize university-level questions for exam preparation.
+<p align="center">
+  <a href="https://github.com/deepdwivedi12?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+  </a>
+</p>
 
-**✨ Features**
-
-Subject-wise Question Organization • Search & Filtering • Organized Question Bank • Exam-focused Preparation
-
-**🛠️ Tech Stack**
-
-HTML • CSS • JavaScript
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Frontend Web Projects
-
-A collection of web applications built while learning frontend development.
-
-**✨ Projects**
-
-🧮 Calculator • 🌙 Digital Theme Clock • ✊ Rock Paper Scissors
-
-✅ To-Do List • 🎨 Responsive Landing Pages
-
-**🛠️ Tech Stack**
-
-HTML • CSS • JavaScript
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Programming Practice
-
-Improving programming fundamentals, logical thinking, and problem-solving skills through coding practice.
-
-**🎯 Focus Areas**
-
-Arrays & Strings • Data Structures & Algorithms
-
-Problem Solving • Time & Space Complexity
-
-</div>
-
-**Focus Areas**
-- Arrays and Strings
-- Problem-solving techniques
-- Data Structures and Algorithms
-- Time and Space Complexity
-
----
+<!-- =============== END FEATURED PROJECTS =============== -- !>
 
 <h2 align="center">🎯 Current Focus</h2>
 
