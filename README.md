@@ -125,38 +125,59 @@
   <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square" alt="Data Visualization"/>
 </p>
 
----
+<h2 align="center">🚀 Featured Projects</h2>
 
-## 🚀 Featured Projects
+<div align="center">
 
 ### 🧠 Smart Question Predictor
 
 An academic tool designed to help organize university-level questions for exam preparation.
 
-**Features**
-- Subject-wise question organization
-- Search and filtering
-- Organized question bank
-- Exam-focused preparation
+**✨ Features**
 
-**Tech Stack:** HTML, CSS, JavaScript
+Subject-wise Question Organization • Search & Filtering • Organized Question Bank • Exam-focused Preparation
+
+**🛠️ Tech Stack**
+
+HTML • CSS • JavaScript
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🌐 Frontend Web Projects
 
 A collection of web applications built while learning frontend development.
 
-**Projects include**
-- 🧮 Calculator
-- 🌙 Digital Theme Clock
-- ✊ Rock Paper Scissors
-- ✅ To-Do List
-- 🎨 Responsive Landing Pages
+**✨ Projects**
 
-**Tech Stack:** HTML, CSS, JavaScript
+🧮 Calculator • 🌙 Digital Theme Clock • ✊ Rock Paper Scissors
+
+✅ To-Do List • 🎨 Responsive Landing Pages
+
+**🛠️ Tech Stack**
+
+HTML • CSS • JavaScript
+
+</div>
+
+---
+
+<div align="center">
 
 ### 💻 Programming Practice
 
-Practicing programming fundamentals, improving logical thinking, and working on Data Structures and Algorithms problems.
+Improving programming fundamentals, logical thinking, and problem-solving skills through coding practice.
+
+**🎯 Focus Areas**
+
+Arrays & Strings • Data Structures & Algorithms
+
+Problem Solving • Time & Space Complexity
+
+</div>
 
 **Focus Areas**
 - Arrays and Strings
