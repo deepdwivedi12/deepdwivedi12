@@ -122,23 +122,46 @@ Practicing programming fundamentals, improving logical thinking, and working on 
 
 ---
 
-## 🎯 Current Focus
+```html
+<h2 align="center">🎯 Current Focus</h2>
 
-| Area | Focus |
-|---|---|
-| Programming | Java, C++, Python |
-| DSA | Problem-solving and coding practice |
-| Web Development | HTML, CSS, JavaScript |
-| Data Analytics | Data cleaning and visualization |
-| Projects | Building practical applications |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Area</th>
+      <th align="center">Current Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">💻 Programming</td>
+      <td align="center">Java, C++, Python</td>
+    </tr>
+    <tr>
+      <td align="center">🧠 DSA</td>
+      <td align="center">Problem Solving & Coding Practice</td>
+    </tr>
+    <tr>
+      <td align="center">🌐 Web Development</td>
+      <td align="center">HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td align="center">📊 Data Analytics</td>
+      <td align="center">Data Cleaning & Visualization</td>
+    </tr>
+    <tr>
+      <td align="center">🚀 Projects</td>
+      <td align="center">Building Practical Applications</td>
+    </tr>
+  </tbody>
+</table>
+```
 
----
-
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Statistics"
   />
@@ -157,25 +180,21 @@ Practicing programming fundamentals, improving logical thinking, and working on 
   />
 </p>
 
----
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp; • &nbsp;
   <a href="https://leetcode.com/u/JrGKTZxD5J/">
-    LeetCode
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  &nbsp; • &nbsp;
   <a href="https://www.hackerrank.com/profile/deepdwivedi164">
-    HackerRank
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  &nbsp; • &nbsp;
   <a href="https://github.com/deepdwivedi12">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
