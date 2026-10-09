@@ -51,10 +51,10 @@
   📊 Exploring Data Analytics &nbsp; • &nbsp;
   🚀 Building Projects
 </p>
-<!-- TECH STACK & SKILLS -->
+
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<h4 align="center">💻 Programming Languages</h4>
+<p align="center"><b>💻 Programming Languages</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -63,14 +63,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-<h4 align="center">🌐 Web Development</h4>
+<p align="center"><b>🌐 Web Development</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript_DOM-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript DOM"/>
 </p>
 
-<h4 align="center">🧠 Core Concepts & Tools</h4>
+<p align="center"><b>🧠 Core Concepts & Tools</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-2563EB?style=flat-square" alt="DSA"/>
   <img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=flat-square" alt="Problem Solving"/>
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-<h4 align="center">📊 Data Analytics</h4>
+<p align="center"><b>📊 Data Analytics</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Cleaning-0F766E?style=flat-square" alt="Data Cleaning"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
