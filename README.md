@@ -86,41 +86,7 @@
   <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square" alt="Data Visualization"/>
 </p>
 
-### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/DOM-Manipulation-0F766E?style=flat-square" alt="DOM Manipulation"/>
-</p>
-
-### Core Concepts & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2563EB?style=flat-square" alt="DSA"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=flat-square" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
-### Data Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Data_Cleaning-0F766E?style=flat-square" alt="Data Cleaning"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square" alt="Data Visualization"/>
-</p>
 <!-- ================= FEATURED PROJECTS ================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
