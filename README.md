@@ -1,145 +1,194 @@
+```html
+<!-- ================= HEADER ================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:06b6d4&text=Deep%20Dwivedi&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Computer%20Science%20Student&descAlignY=60&descSize=28&animation=fadeIn" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepdwivedi12&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Deep%20Dwivedi&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=16&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Deep Dwivedi - Aspiring Software Developer"
+  />
 </p>
 
 <h3 align="center">
-🌐 Web Development • 📚 Data Structures & Algorithms • 📊 Data Analytics
-</h3>
-
-<h3 align="center">
-🚀 Solving DSA Problems • 💻 Building Projects • 📖 Learning Java • 📊 Learning Data Analytics
+  Building Projects • Solving Problems • Learning Every Day
 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/deepdwivedi12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/JrGKTZxD5J/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/deepdwivedi164">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/deep_0__07/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/deepdwivedi12">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/JrGKTZxD5J/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/deepdwivedi164">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
-<h1> 👨‍💻 About Me </h1>
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 **B.Tech CSE (Data Analytics)** Student at **SAGE University, Bhopal** *(Powered by Sunstone)*
-- 💻 Passionate about **Frontend Development**, **DSA**, and **Problem Solving**
-- 🌱 Currently learning **Java, C++, Python, DSA,  & Web Development**
-- 🚀 Building real-world projects to improve my development skills
-- 📊 Exploring **Data Analytics**, and **Data Visualization**
-- 🎯 Goal: Become a **Software Engineer** and contribute to impactful projects
 
 ---
 
+## 👨‍💻 About Me
+
+Hi! I'm **Deep Dwivedi**, a Computer Science student specializing in Data Analytics at **SAGE University, Bhopal**.
+
+I'm passionate about programming, problem-solving, web development, and data analytics. I enjoy learning new technologies, practicing Data Structures and Algorithms, and building projects that turn ideas into practical solutions.
+
+- 🎓 B.Tech CSE (Data Analytics) student
+- 💻 Practicing programming and DSA
+- 🌐 Learning and building frontend web projects
+- 📊 Exploring data analytics and visualization
+- 🚀 Building practical projects to strengthen my development skills
+- 🎯 Goal: Grow into a skilled software developer and contribute to meaningful projects
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/DOM-Manipulation-0F766E?style=flat-square" alt="DOM Manipulation"/>
+</p>
+
+### Core Concepts & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2563EB?style=flat-square" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=flat-square" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+### Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Cleaning-0F766E?style=flat-square" alt="Data Cleaning"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-2563EB?style=flat-square" alt="Data Visualization"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🧠 Smart Question Predictor
 
-A smart academic tool designed to predict and organize university-level questions for better exam preparation.
+An academic tool designed to help organize university-level questions for exam preparation.
 
-**✨ Features**
-- 📚 Subject-wise Question Prediction
-- 🔍 Search & Filtering
-- 📊 Organized Question Bank
-- 🎯 Exam-focused Preparation
+**Features**
+- Subject-wise question organization
+- Search and filtering
+- Organized question bank
+- Exam-focused preparation
 
-**🛠 Tech Stack:** HTML, CSS, JavaScript
-
-</td>
-
-<td width="50%" valign="top">
+**Tech Stack:** HTML, CSS, JavaScript
 
 ### 🌐 Frontend Web Projects
 
-A collection of responsive web applications built while learning frontend development.
+A collection of web applications built while learning frontend development.
 
-**✨ Projects**
+**Projects include**
 - 🧮 Calculator
 - 🌙 Digital Theme Clock
 - ✊ Rock Paper Scissors
 - ✅ To-Do List
 - 🎨 Responsive Landing Pages
 
-**🛠 Tech Stack:** HTML, CSS, JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+**Tech Stack:** HTML, CSS, JavaScript
 
 ### 💻 Programming Practice
 
-Improving programming fundamentals through daily coding practice, logic building, and DSA problem-solving.
+Practicing programming fundamentals, improving logical thinking, and working on Data Structures and Algorithms problems.
 
-**💻 Programming Languages**
-- 🔹 C
-- 🔹 C++
-- 🔹 Java
-- 🔹 Python
+**Focus Areas**
+- Arrays and Strings
+- Problem-solving techniques
+- Data Structures and Algorithms
+- Time and Space Complexity
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 🎯 Current Focus
 
-### 🚀 Learning Journey
+| Area | Focus |
+|---|---|
+| Programming | Java, C++, Python |
+| DSA | Problem-solving and coding practice |
+| Web Development | HTML, CSS, JavaScript |
+| Data Analytics | Data cleaning and visualization |
+| Projects | Building practical applications |
 
-Continuously learning modern technologies and building practical projects to strengthen development skills.
+---
 
-**🎯 Current Learning**
-- 🌐 Frontend Development
-- 💡 Data Structures & Algorithms
-- ☕ Java Programming
-- 🐍 Python Basics
-- 🔧 Git & GitHub
+## 📊 GitHub Statistics
 
-</td>
-
-</tr>
-
-</table>
-
-<h1 align="center">🔥 GitHub Streak</h1>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepdwivedi12&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most Used Languages"
+  />
 </p>
 
-
-<h2 align="center"> 📈 Contribution Graph </h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=react-dark&bg_color=0D1117&color=BB86FC&line=00F5FF&point=FF6EC7&area=true&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=deepdwivedi12&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Contribution Streak"
+  />
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/deep-dwivedi-0aa707383/">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://leetcode.com/u/JrGKTZxD5J/">
+    LeetCode
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.hackerrank.com/profile/deepdwivedi164">
+    HackerRank
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/deepdwivedi12">
+    GitHub
+  </a>
+</p>
+
 <p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepdwivedi12&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepdwivedi12&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepdwivedi12&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepdwivedi12&theme=tokyonight&utcOffset=5.5"/>
+  <i>Learning consistently. Building practically. Improving every day.</i>
 </p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer"
+    width="100%"
+    alt="Blue cyan footer"
+  />
+</p>
+```
