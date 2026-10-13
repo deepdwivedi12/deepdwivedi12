@@ -278,3 +278,40 @@
     alt="Blue cyan footer"
   />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=deepdwivedi12&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdwivedi12&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=deepdwivedi12&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
+
