@@ -192,7 +192,6 @@
   </a>
 </p>
 
-<!-- =============== END FEATURED PROJECTS =============== -- !>
 
 <h2 align="center">🎯 Current Focus</h2>
 
@@ -279,4 +278,3 @@
     alt="Blue cyan footer"
   />
 </p>
-```
