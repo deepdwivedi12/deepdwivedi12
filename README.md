@@ -270,33 +270,6 @@
 <p align="center">
   <i>Learning consistently. Building practically. Improving every day.</i>
 </p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer"
-    width="100%"
-    alt="Blue cyan footer"
-  />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=deepdwivedi12&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=deepdwivedi12&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
 ## 💻 Most Used Languages
 
 <p align="center">
@@ -314,4 +287,16 @@
     alt="Contribution Graph"
   />
 </p>
+
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer"
+    width="100%"
+    alt="Blue cyan footer"
+  />
+</p>
+
+
+
 
