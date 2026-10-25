@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= --><p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Deep%20Dwivedi&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=16&descAlignY=58&animation=fadeIn"
     width="100%"
